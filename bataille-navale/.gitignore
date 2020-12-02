@@ -1,0 +1,7 @@
+#fichier gitignore programme C
+
+#/programmation_c/bin/Debug/programmation_c.exe
+#/programmation_c/obj/Debug/main.o
+
+*.exe
+*.o
