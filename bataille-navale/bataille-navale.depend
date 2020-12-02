@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606908602 source:c:\users\franc\desktop\cours\algo\git\bataille-navale\bataille-navale\main.c
+	<stdio.h>
+	<stdlib.h>
+	"BN_functions.c"
+
+1606908736 c:\users\franc\desktop\cours\algo\git\bataille-navale\bataille-navale\bn_functions.c
+	<stdio.h>
+	<stdlib.h>
+
