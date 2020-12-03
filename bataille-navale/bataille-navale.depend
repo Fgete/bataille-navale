@@ -4,7 +4,10 @@
 	<stdlib.h>
 	"BN_functions.c"
 
-1606908736 c:\users\franc\desktop\cours\algo\git\bataille-navale\bataille-navale\bn_functions.c
+1606997914 c:\users\franc\desktop\cours\algo\git\bataille-navale\bataille-navale\bn_functions.c
 	<stdio.h>
 	<stdlib.h>
+	"BN_struct.c"
+
+1606995813 c:\users\franc\desktop\cours\algo\git\bataille-navale\bataille-navale\bn_struct.c
 
